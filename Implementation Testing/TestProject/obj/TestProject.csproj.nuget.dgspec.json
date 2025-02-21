@@ -1,14 +1,14 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Anku\\Desktop\\Software Engineering\\TestProject\\TestProject.csproj": {}
+    "C:\\Users\\Anku\\Documents\\GitHub\\Student-Attendance-Management-System\\Implementation Testing\\TestProject\\TestProject.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Anku\\Desktop\\Software Engineering\\Software Engineering\\Software Engineering.csproj": {
+    "C:\\Users\\Anku\\Documents\\GitHub\\Student-Attendance-Management-System\\Implementation Testing\\Software Engineering\\Software Engineering.csproj": {
       "restore": {
-        "projectUniqueName": "C:\\Users\\Anku\\Desktop\\Software Engineering\\Software Engineering\\Software Engineering.csproj",
+        "projectUniqueName": "C:\\Users\\Anku\\Documents\\GitHub\\Student-Attendance-Management-System\\Implementation Testing\\Software Engineering\\Software Engineering.csproj",
         "projectName": "Software Engineering",
-        "projectPath": "C:\\Users\\Anku\\Desktop\\Software Engineering\\Software Engineering\\Software Engineering.csproj",
+        "projectPath": "C:\\Users\\Anku\\Documents\\GitHub\\Student-Attendance-Management-System\\Implementation Testing\\Software Engineering\\Software Engineering.csproj",
         "frameworks": {
           "net48": {
             "projectReferences": {}
@@ -19,14 +19,14 @@
         "net48": {}
       }
     },
-    "C:\\Users\\Anku\\Desktop\\Software Engineering\\TestProject\\TestProject.csproj": {
+    "C:\\Users\\Anku\\Documents\\GitHub\\Student-Attendance-Management-System\\Implementation Testing\\TestProject\\TestProject.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Anku\\Desktop\\Software Engineering\\TestProject\\TestProject.csproj",
+        "projectUniqueName": "C:\\Users\\Anku\\Documents\\GitHub\\Student-Attendance-Management-System\\Implementation Testing\\TestProject\\TestProject.csproj",
         "projectName": "TestProject",
-        "projectPath": "C:\\Users\\Anku\\Desktop\\Software Engineering\\TestProject\\TestProject.csproj",
+        "projectPath": "C:\\Users\\Anku\\Documents\\GitHub\\Student-Attendance-Management-System\\Implementation Testing\\TestProject\\TestProject.csproj",
         "packagesPath": "C:\\Users\\Anku\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Anku\\Desktop\\Software Engineering\\TestProject\\obj\\",
+        "outputPath": "C:\\Users\\Anku\\Documents\\GitHub\\Student-Attendance-Management-System\\Implementation Testing\\TestProject\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Anku\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -44,8 +44,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\Anku\\Desktop\\Software Engineering\\Software Engineering\\Software Engineering.csproj": {
-                "projectPath": "C:\\Users\\Anku\\Desktop\\Software Engineering\\Software Engineering\\Software Engineering.csproj"
+              "C:\\Users\\Anku\\Documents\\GitHub\\Student-Attendance-Management-System\\Implementation Testing\\Software Engineering\\Software Engineering.csproj": {
+                "projectPath": "C:\\Users\\Anku\\Documents\\GitHub\\Student-Attendance-Management-System\\Implementation Testing\\Software Engineering\\Software Engineering.csproj"
               }
             }
           }
