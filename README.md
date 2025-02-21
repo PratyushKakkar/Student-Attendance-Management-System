@@ -1,5 +1,3 @@
-# Student-Attendance-Management-System
-
 # Student Attendance Management System (SAMS)
 
 ## Overview
@@ -12,6 +10,11 @@ The project is divided into two main parts:
 1. **Project Planning Document Part 1.pdf**: Contains the architectural design, sequence diagrams, state machine diagrams, and unit test designs for the system.
 2. **Project Planning Document Part 2.pdf**: Includes the project vision, requirements specification, lifecycle model analysis, initial domain models, and release plans.
 3. **Implementation Testing**: Contains the C# code implementation of the system, generated using Visual Studio 2022.
+4. **Diagrams:**
+  a. *Use-Case Diagram*
+  b. *Class Diagram*
+  c. *State Chart Diagram*
+  d. *Sequence Diagrams*
 
 ## Key Features
 
@@ -23,4 +26,3 @@ The system follows the **Model-View-Controller (MVC)** architectural pattern, wh
 
 ### Lifecycle Model
 The project uses the **Incremental Development** lifecycle model, which allows for the system to be developed in manageable phases, ensuring stability and control over the development process. This approach enables the team to deliver functional components incrementally, allowing for early feedback and continuous improvement.
-
