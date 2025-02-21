@@ -1,0 +1,7 @@
+C:\Users\Anku\Desktop\Software Engineering\Software Engineering\bin\Debug\Software Engineering.exe.config
+C:\Users\Anku\Desktop\Software Engineering\Software Engineering\bin\Debug\Software Engineering.exe
+C:\Users\Anku\Desktop\Software Engineering\Software Engineering\bin\Debug\Software Engineering.pdb
+C:\Users\Anku\Desktop\Software Engineering\Software Engineering\obj\Debug\Software Engineering.csproj.AssemblyReference.cache
+C:\Users\Anku\Desktop\Software Engineering\Software Engineering\obj\Debug\Software Engineering.csproj.CoreCompileInputs.cache
+C:\Users\Anku\Desktop\Software Engineering\Software Engineering\obj\Debug\Software Engineering.exe
+C:\Users\Anku\Desktop\Software Engineering\Software Engineering\obj\Debug\Software Engineering.pdb
